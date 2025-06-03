@@ -10,7 +10,7 @@ where:
 
 * $y \in \mathbb{R}^n$, $X \in \mathbb{R}^{n \times p}$,
 * $\mathbb{E}[\varepsilon] = 0$,
-* $\operatorname{Var}(\varepsilon) = \sigma^2 I_n$.
+* ${Var}(\varepsilon) = \sigma^2 I_n$.
 
 The ordinary least squares (OLS) estimator is:
 $b = (X^\top X)^{-1} X^\top y \quad \text{(assuming full column rank)}$
