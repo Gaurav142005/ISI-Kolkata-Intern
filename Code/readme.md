@@ -57,7 +57,7 @@ Let:
 * $\gamma = (m_{41} - 3, \dots, m_{4n} - 3)^\top$: excess kurtosis vector
 
 Then:
-${Var}(\tilde{\beta}_i) = \sigma^2 \left[ b_i^\top b_i + 2{tr}(H_i^2) + 3 \sum_j m_{3j} b_{ij} H_{i,jj} + \sum_j \gamma_j H_{i,jj}^2 \right]$
+$${Var}(\tilde{\beta}_i) = \sigma^2 \left[ b_i^\top b_i + 2{tr}(H_i^2) + 3 \sum_j m_{3j} b_{ij} H_{i,jj} + \sum_j \gamma_j H_{i,jj}^2 \right]$$
 
 ---
 
